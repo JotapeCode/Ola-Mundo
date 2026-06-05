@@ -2,3 +2,5 @@
 meu segundo repositorio de Git e GitHub
 
 Repositório criado durante uma aula ao vivo                     
+
+essa linha eu adicionei diretamente pelo repositorio remoro !! OHH MY GOD
